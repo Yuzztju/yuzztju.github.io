@@ -51,7 +51,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-	           Songyuan Lei, Xinglong Chang, <b>Zhizhi Yu*</b>, Dongxiao He, Cuiying Huo, Jianrong Wang, Di Jin*. a href="[https://ojs.aaai.org/index.php/AAAI/article/view/33260](https://ojs.aaai.org/index.php/AAAI/article/view/33309)">Feature-Structure Adaptive Completion Graph Neural Network for Cold-start Recommendation</a>.
+	           Songyuan Lei, Xinglong Chang, <b>Zhizhi Yu*</b>, Dongxiao He, Cuiying Huo, Jianrong Wang, Di Jin*. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33309">Feature-Structure Adaptive Completion Graph Neural Network for Cold-start Recommendation</a>.
 			<i>AAAI-2025.（CCF A类会议长文）</i>
                 </p>
               </blockquote>
