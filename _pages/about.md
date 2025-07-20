@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University (TJU), China. She received BA, ME degree from Jilin University, and Ph.D degree from Tianjin University, under the supervision of Prof. Di Jin (金弟). Her postdoctoral advisor is Prof. Jianguo Wei (魏建国). Her research interests include graph machine learning, graph neural networks, complex network analysis, e-commerce search and recommendation system. She has published many papers in highly regarded journals and conferences, such as NeurIPS, WWW, ICDM, IJCAI, AAAI, IEEE TNNLS, IEEE TKDE, etc.
+Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University (TJU), China. She received BA, ME degree from Jilin University, and Ph.D degree from Tianjin University, under the supervision of [Prof. Di Jin (金弟)](https://cic.tju.edu.cn/faculty/jindi/index.htm). Her postdoctoral advisor is [Prof. Jianguo Wei (魏建国)](https://cic.tju.edu.cn/faculty/weijianguo/index.html). Her research interests include graph machine learning, graph neural networks, complex network analysis, e-commerce search and recommendation system. She has published many papers in highly regarded journals and conferences, such as NeurIPS, WWW, ICDM, IJCAI, AAAI, IEEE TNNLS, IEEE TKDE, etc.
 
 于智郅，天津大学智能与计算学部助理研究员，一直从事智能信息处理、社交网络分析、图神经网络及其应用等方面的研究，在本领域顶级期刊/会议上发表论文20余篇，以第一作者获得国际数据挖掘顶会ICDM 2021最佳学生论文奖亚军奖，入选国家资助博士后研究人员计划C档。主持国家自然科学基金青年项目1项，博士后科学基金面上项目1项，国家重点研发计划子课题1项等。长期担任TKDE、NeurIPS、KDD、ICML、AAAI、IJCAI等CCF A类期刊/会议审稿人；担任中国中文信息学会社会媒体处理专业委员会委员。
 
