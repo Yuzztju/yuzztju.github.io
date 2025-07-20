@@ -106,8 +106,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-	           Di Jin, Zhiqiang Wang, Cuiying Huo, <b>Zhizhi Yu*</b>, Dongxiao He, Yuxiao Huang. 
-			"Local-Global Fusion Augmented Graph Contrastive Learning Based on Generative Models".
+	           Di Jin, Zhiqiang Wang, Cuiying Huo, <b>Zhizhi Yu*</b>, Dongxiao He, Yuxiao Huang. <a href="https://link.springer.com/chapter/10.1007/978-3-031-40292-0_6">Local-Global Fusion Augmented Graph Contrastive Learning Based on Generative Models</a>.
 			<i>KSEM-2023. (CCF C类会议长文)</i>
                 </p>
               </blockquote>
