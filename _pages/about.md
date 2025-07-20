@@ -79,15 +79,6 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-	           Yawen Li, <b>Zhizhi Yu*</b>, Dongxiao He. <a href="https://ieeexplore.ieee.org/document/10475504">Text-Rich Graph Neural Networks with Subjective-Objective Semantic Modeling</a>.
-			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.（CCF A类期刊）</i>
-                </p>
-              </blockquote>
-            </div>
-	    
-<div class="testimonial">
-              <blockquote>
-                <p>
 	          <b>Zhizhi Yu</b>, Di Jin, Jianguo Wei, Yawen Li, Ziyang Liu, Yue Shang, Jiawei Han, Lingfei Wu. <a href="https://ieeexplore.ieee.org/document/10475504">TeKo: Text-Rich Graph Neural Network with External Knowledge</a>.
 			<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024. (JCR一区期刊，IF. 14.255)</i>
                 </p>
@@ -102,7 +93,16 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
                 </p>
               </blockquote>
             </div>
-		  
+	    
+<div class="testimonial">
+              <blockquote>
+                <p>
+	           Yawen Li, <b>Zhizhi Yu*</b>, Dongxiao He. <a href="https://ieeexplore.ieee.org/document/10475504">Text-Rich Graph Neural Networks with Subjective-Objective Semantic Modeling</a>.
+			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.（CCF A类期刊）</i>
+                </p>
+              </blockquote>
+            </div>
+	    	  
 <div class="testimonial">
               <blockquote>
                 <p>
