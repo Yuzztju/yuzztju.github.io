@@ -80,7 +80,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		Yu Zhou, Di Jin, Jianguo Wei, Dongxiao He, <b>Zhizhi Yu*</b>, Weixiong Zhang.<a href="https://www.ijcai.org/proceedings/2024/289">Generalized Taxonomy-Guided Graph Neural Networks</a>.
+		Yu Zhou, Di Jin, Jianguo Wei, Dongxiao He, <b>Zhizhi Yu*</b>, Weixiong Zhang. <a href="https://www.ijcai.org/proceedings/2024/289">Generalized Taxonomy-Guided Graph Neural Networks</a>.
 			<i>IJCAI-2024.（CCF A类会议长文）</i>
                 </p>
               </blockquote>
@@ -90,8 +90,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-	           Yawen Li, <b>Zhizhi Yu*</b>, Dongxiao He. 
-			"Text-Rich Graph Neural Networks with Subjective-Objective Semantic Modeling".
+	           Yawen Li, <b>Zhizhi Yu*</b>, Dongxiao He. <a href="https://ieeexplore.ieee.org/document/10475504">Text-Rich Graph Neural Networks with Subjective-Objective Semantic Modeling</a>.
 			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.（CCF A类期刊）</i>
                 </p>
               </blockquote>
