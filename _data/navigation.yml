@@ -2,9 +2,12 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
+Experiences
 #  - title: "News"
 #    url: "/#-news"
+
+  - title: "Experiences"
+    url: "/#-experiences"
 
   - title: "Publications"
     url: "/#-publications-corresponding-author"
