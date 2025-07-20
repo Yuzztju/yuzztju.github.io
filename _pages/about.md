@@ -19,11 +19,31 @@ redirect_from:
 
 Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University (TJU), China. She received BA, ME degree from Jilin University, and Ph.D degree from Tianjin University. Her supervisor was Prof. Di Jin (金弟). Her research interests include graph machine learning, graph neural networks, complex network analysis, e-commerce search and recommendation system. She has published many papers in highly regarded journals and conferences, such as NeurIPS, WWW, ICDM, IJCAI, AAAI, IEEE TNNLS, IEEE TKDE, etc.
 
-# 📝 Publications 
+# 📝 Publications
 <div class="testimonial">
               <blockquote>
                 <p>
-	           Ling Ding, Lei Huang, <b>Zhizhi Yu*</b>,, Di Jin, Dongxiao He. 
+	           <b>Zhizhi Yu</b>, Chundong Liang, Xinglong Chang, Dongxiao He, Di Jin, Jianguo Wei:. 
+			"Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection".
+			<i>AAAI-2025.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+	    
+<div class="testimonial">
+              <blockquote>
+                <p>
+	           Songyuan Lei, Xinglong Chang, <b>Zhizhi Yu*</b>, Dongxiao He, Cuiying Huo, Jianrong Wang, Di Jin*. 
+			"Feature-Structure Adaptive Completion Graph Neural Network for Cold-start Recommendation".
+			<i>AAAI-2025.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+	    
+<div class="testimonial">
+              <blockquote>
+                <p>
+	           Ling Ding, Lei Huang, <b>Zhizhi Yu*</b>, Di Jin, Dongxiao He. 
 			"Towards Global-Topology Relation Graph for Inductive Knowledge Graph Completion".
 			<i>AAAI-2025.（CCF A类会议长文）</i>
                 </p>
