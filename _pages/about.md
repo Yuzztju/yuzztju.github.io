@@ -24,7 +24,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <font color ="red"> Call for graduate and undergraduate students! I hope you are dedicated, determined and have basic programming and math skills. Please feel free to contact me via email yuzhizhi@tju.edu.cn.</font>
 
 # 💻 Experiences
-- 2023.06 - now Assistant Professor, Tianjin University
+- 2023.06 - now, Assistant Professor, Tianjin University
 
 # 📝 Publications (*Corresponding author)
 # 2025
@@ -32,7 +32,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               <blockquote>
                 <p>
 		Siqi Liu, Dongxiao He, <b>Zhizhi Yu</b>, Di Jin, Zhiyong Feng. 
-			"Beyond Homophily: Neighborhood Distribution-guided Graph Convolutional Networks".
+			"Beyond Homophily: Neighborhood Distribution-guided Graph Convolutional NetworksProf".
 			<i>Expert Systems With Applications, 2025.（SCI一区期刊）</i>
                 </p>
               </blockquote>
@@ -61,7 +61,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-	           Ling Ding, Lei Huang, <b>Zhizhi Yu*</b>, Di Jin, Dongxiao He. 
+	           [Ling Ding, Lei Huang, <b>Zhizhi Yu*</b>, Di Jin, Dongxiao He](https://ojs.aaai.org/index.php/AAAI/article/view/33260). 
 			"Towards Global-Topology Relation Graph for Inductive Knowledge Graph Completion".
 			<i>AAAI-2025.（CCF A类会议长文）</i>
                 </p>
