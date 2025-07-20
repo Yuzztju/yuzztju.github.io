@@ -79,6 +79,15 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
+	           Yawen Li, <b>Zhizhi Yu*</b>, Dongxiao He. <a href="https://ieeexplore.ieee.org/document/10475504">Text-Rich Graph Neural Networks with Subjective-Objective Semantic Modeling</a>.
+			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.（CCF A类期刊）</i>
+                </p>
+              </blockquote>
+            </div>
+	    
+<div class="testimonial">
+              <blockquote>
+                <p>
 	          <b>Zhizhi Yu</b>, Di Jin, Jianguo Wei, Yawen Li, Ziyang Liu, Yue Shang, Jiawei Han, Lingfei Wu. <a href="https://ieeexplore.ieee.org/document/10475504">TeKo: Text-Rich Graph Neural Network with External Knowledge</a>.
 			<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024. (JCR一区期刊，IF. 14.255)</i>
                 </p>
@@ -98,16 +107,6 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               <blockquote>
                 <p>
 		Yu Zhou, Di Jin, Jianguo Wei, Dongxiao He, <b>Zhizhi Yu*</b>, Weixiong Zhang. <a href="https://www.ijcai.org/proceedings/2024/289">Generalized Taxonomy-Guided Graph Neural Networks</a>. <i>IJCAI-2024.（CCF A类会议长文）</i>
-                </p>
-              </blockquote>
-            </div>
-
-		  
-<div class="testimonial">
-              <blockquote>
-                <p>
-	           Yawen Li, <b>Zhizhi Yu*</b>, Dongxiao He. <a href="https://ieeexplore.ieee.org/document/10475504">Text-Rich Graph Neural Networks with Subjective-Objective Semantic Modeling</a>.
-			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.（CCF A类期刊）</i>
                 </p>
               </blockquote>
             </div>
@@ -144,24 +143,6 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		  Di Jin, <b>Zhizhi Yu</b>, Pengfei Jiao, Shirui Pan, Dongxiao He, Jia Wu, Philip S. Yu, Weixiong Zhang. <a href="https://ieeexplore.ieee.org/document/9511798">A Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning</a>.
-			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.（CCF A类期刊）</i>	
-                </p>
-              </blockquote>
-            </div>
-
-<div class="testimonial">
-              <blockquote>
-                <p>
-		Di Jin, <b>Zhizhi Yu</b>, Dongxiao He, Carl Yang, Philip S. Yu, Jiawei Han. <a href="https://ieeexplore.ieee.org/document/9627584">GCN for HIN via Implicit Utilization of Attention and Meta-Paths</a>.
-		<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.（CCF A类期刊）</i>
-                </p>
-              </blockquote>
-            </div>
-
-<div class="testimonial">
-              <blockquote>
-                <p>
 		 <b>Zhizhi Yu</b>, Di Jin, Ziyang Liu, Dongxiao He, Xiao Wang, Hanghang Tong, Jiawei Han. <a href="https://link.springer.com/article/10.1007/s10115-022-01768-4">Embedding Text-Rich Graph Neural Networks with Sequence and Topical Semantic Structures</a>.
 			<i>Knowledge and Information Systems (KAIS), 2023.（CCF B类期刊）</i>
                 </p>
@@ -173,6 +154,24 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
                 <p>
 	           Di Jin, Zhiqiang Wang, Cuiying Huo, <b>Zhizhi Yu*</b>, Dongxiao He, Yuxiao Huang. <a href="https://link.springer.com/chapter/10.1007/978-3-031-40292-0_6">Local-Global Fusion Augmented Graph Contrastive Learning Based on Generative Models</a>.
 			<i>KSEM-2023. (CCF C类会议长文)</i>
+                </p>
+              </blockquote>
+            </div>
+
+<div class="testimonial">
+              <blockquote>
+                <p>
+		  Di Jin, <b>Zhizhi Yu</b>, Pengfei Jiao, Shirui Pan, Dongxiao He, Jia Wu, Philip S. Yu, Weixiong Zhang. <a href="https://ieeexplore.ieee.org/document/9511798">A Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning</a>.
+			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.（CCF A类期刊）</i>	
+                </p>
+              </blockquote>
+            </div>
+
+<div class="testimonial">
+              <blockquote>
+                <p>
+		Di Jin, <b>Zhizhi Yu</b>, Dongxiao He, Carl Yang, Philip S. Yu, Jiawei Han. <a href="https://ieeexplore.ieee.org/document/9627584">GCN for HIN via Implicit Utilization of Attention and Meta-Paths</a>.
+		<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.（CCF A类期刊）</i>
                 </p>
               </blockquote>
             </div>
