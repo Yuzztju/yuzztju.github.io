@@ -28,7 +28,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
                 <p>
 		Siqi Liu, Dongxiao He, <b>Zhizhi Yu</b>, Di Jin, Zhiyong Feng. 
 			"Beyond Homophily: Neighborhood Distribution-guided Graph Convolutional Networks".
-			<i>Expert Systems With Applications, 2025.（SCI一区期刊长文）</i>
+			<i>Expert Systems With Applications, 2025.（SCI一区期刊）</i>
                 </p>
               </blockquote>
             </div>
@@ -121,7 +121,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
                 <p>
 	          <b>Zhizhi Yu</b>, Di Jin, Jianguo Wei, Yawen Li, Ziyang Liu, Yue Shang, Jiawei Han, Lingfei Wu. 
 			"TeKo: Text-rich graph neural network with external knowledge".
-			<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. (JCR 一区期刊，IF. 14.255)</i>
+			<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. (JCR一区期刊，IF. 14.255)</i>
                 </p>
               </blockquote>
             </div>
@@ -182,7 +182,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
                 <p>
 		Dongxiao He, Yanli Wu, Youyou Wang, <b>Zhizhi Yu</b>, Zhiyong Feng, Xiaobao Wang, Yuxiao Huang.
 "Identification of communities with multi-semantics via bayesian generative model".
-			<i>IEEE Transactions on Big Data, 2022.（SCI 二区期刊，IF. 4.271）</i>
+			<i>IEEE Transactions on Big Data, 2022.（SCI二区期刊，IF. 4.271）</i>
                 </p>
               </blockquote>
             </div>
@@ -226,7 +226,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
                   <b>Xiaobao Wang</b>, Junhai Xu, Jianwu Dang. "Improve
                   emotional speech synthesis quality by learning explicit and
                   implicit representations with semi-supervised training".
-                  <i>INTERSPEECH, 2022. (CCF-C类会议长文)</i>
+                  <i>INTERSPEECH, 2022. (CCF C类会议长文)</i>
                 </p>
                 <small>
                   <a target="_blank" href="./paper/interspeech2022.pdf">PDF</a>
