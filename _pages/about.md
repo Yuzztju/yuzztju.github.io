@@ -161,8 +161,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-			Di Jin, Yingli Gong, Zhiqiang Wang, <b>Zhizhi Yu</b>, Dongxiao He, Yuxiao Huang, Wenjun Wang. 
-			"Graph neural network for higher-order dependency networks". 
+			Di Jin, Yingli Gong, Zhiqiang Wang, <b>Zhizhi Yu</b>, Dongxiao He, Yuxiao Huang, Wenjun Wang. <a href="https://dl.acm.org/doi/10.1145/3485447.3512161">Graph Neural Network for Higher-Order Dependency Networks</a>.
 			<i>WWW-2022.（CCF A类会议长文）</i>
                 </p>
               </blockquote>
@@ -171,8 +170,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		Dongxiao He, Yanli Wu, Youyou Wang, <b>Zhizhi Yu</b>, Zhiyong Feng, Xiaobao Wang, Yuxiao Huang.
-"Identification of communities with multi-semantics via bayesian generative model".
+		Dongxiao He, Yanli Wu, Youyou Wang, <b>Zhizhi Yu</b>, Zhiyong Feng, Xiaobao Wang, Yuxiao Huang. <a href="https://ieeexplore.ieee.org/document/9632396">Identification of Communities with Multi-Semantics via Bayesian Generative Model</a>.
 			<i>IEEE Transactions on Big Data, 2022.（SCI二区期刊，IF. 4.271）</i>
                 </p>
               </blockquote>
@@ -181,8 +179,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		  <b>Zhizhi Yu</b>, Di Jin, Ziyang Liu, Dongxiao He, Xiao Wang, Hanghang Tong, Jiawei Han. 
-			"AS-GCN: Adaptive semantic architecture of graph convolutional networks for text-rich networks".           
+		  <b>Zhizhi Yu</b>, Di Jin, Ziyang Liu, Dongxiao He, Xiao Wang, Hanghang Tong, Jiawei Han. <a href="https://ieeexplore.ieee.org/document/9679149">AS-GCN: Adaptive Semantic Architecture of Graph Convolutional Networks for Text-Rich Networks</a>.        
                   <i>ICDM-2021. (CCF B类会议长文，<span style="color: red"
                   >最佳学生论文奖Runner-Up)</span></i>
                 </p>
@@ -192,8 +189,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		Di Jin, <b>Zhizhi Yu</b>, Cuiying Huo, Rui Wang, Xiao Wang, Dongxiao He, Jiawei Han. 
-		"Universal graph convolutional networks". 
+		Di Jin, <b>Zhizhi Yu</b>, Cuiying Huo, Rui Wang, Xiao Wang, Dongxiao He, Jiawei Han. <a href="https://proceedings.neurips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html">Universal Graph Convolutional Networks</a>.        
 		<i>NeurIPS-2021.（CCF A类会议长文）</i>
                 </p>
               </blockquote>
