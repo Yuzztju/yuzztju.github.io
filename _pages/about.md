@@ -40,11 +40,13 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- IEEE International Conference on Data Mining 2021, Best Student Paper Award Runner-Up, 2021
+- Excellent PhD graduate of Tianjin University, 2023
+- Excellent PhD Thesis of Tianjin University, 2023
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2023.06*, PhD in College of Intelligence and Computing, Tianjin University, China. 
+- *2016.09 - 2019.06*, MS in College of Computer Science and Technology, Jilin University, China.
+- *2012.09 - 2016.07*, BS in College of Computer Science and Technology, Jilin University, China. 
 
 
