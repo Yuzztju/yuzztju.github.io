@@ -124,7 +124,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-	           Niya Yang, Ye Wang, <b>Zhizhi Yu*</b>, Dongxiao He, Xin Huang, Di Jin. <a href="https://www.ijcai.org/proceedings/2024/276">Joint Domain Adaptive Graph Convolutional Network</a>.
+	           Niya Yang, Ye Wang, <b>Zhizhi Yu</b>, Dongxiao He, Xin Huang, Di Jin. <a href="https://www.ijcai.org/proceedings/2024/276">Joint Domain Adaptive Graph Convolutional Network</a>.
 			<i>IJCAI-2024. (CCF A类会议长文)</i>
                 </p>
               </blockquote>
