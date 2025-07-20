@@ -32,7 +32,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               <blockquote>
                 <p>
 		Siqi Liu, Dongxiao He, <b>Zhizhi Yu</b>, Di Jin, Zhiyong Feng. 
-			"Beyond Homophily: Neighborhood Distribution-guided Graph Convolutional NetworksProf".
+			"Beyond Homophily: Neighborhood Distribution-guided Graph Convolutional Networks".
 			<i>Expert Systems With Applications, 2025.（SCI一区期刊）</i>
                 </p>
               </blockquote>
