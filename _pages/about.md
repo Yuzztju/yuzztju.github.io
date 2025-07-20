@@ -115,17 +115,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-	           Di Jin, Zhiqiang Wang, Cuiying Huo, <b>Zhizhi Yu*</b>, Dongxiao He, Yuxiao Huang. <a href="https://link.springer.com/chapter/10.1007/978-3-031-40292-0_6">Local-Global Fusion Augmented Graph Contrastive Learning Based on Generative Models</a>.
-			<i>KSEM-2023. (CCF C类会议长文)</i>
-                </p>
-              </blockquote>
-            </div>
-
-<div class="testimonial">
-              <blockquote>
-                <p>
-		  <b>Zhizhi Yu</b>, Di Jin, Cuiying Huo, Zhiqiang Wang, Xiulong Liu, Heng Qi, Jia Wu, Lingfei Wu.
-"KGTrust: Evaluating trustworthiness of SIoT via knowledge enhanced graph neural networks". 
+		  <b>Zhizhi Yu</b>, Di Jin, Cuiying Huo, Zhiqiang Wang, Xiulong Liu, Heng Qi, Jia Wu, Lingfei Wu. <a href="https://dl.acm.org/doi/10.1145/3543507.3583549">KGTrust: Evaluating Trustworthiness of SIoT via Knowledge Enhanced Graph Neural Networks</a>.
 			<i>WWW-2023. (CCF A类会议长文）</i>
                 </p>
               </blockquote>
@@ -134,8 +124,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		  Di Jin, <b>Zhizhi Yu</b>, Pengfei Jiao, Shirui Pan, Dongxiao He, Jia Wu, Philip S. Yu, Weixiong Zhang.
-                  "A survey of community detection approaches: From statistical modeling to deep learning". 
+		  Di Jin, <b>Zhizhi Yu</b>, Pengfei Jiao, Shirui Pan, Dongxiao He, Jia Wu, Philip S. Yu, Weixiong Zhang. <a href="https://ieeexplore.ieee.org/document/9511798">A Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning</a>.
 			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.（CCF A类期刊）</i>	
                 </p>
               </blockquote>
@@ -144,8 +133,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		Di Jin, <b>Zhizhi Yu</b>, Dongxiao He, Carl Yang, Philip S. Yu, Jiawei Han. 
-		"GCN for HIN via implicit utilization of attention and meta-paths". 
+		Di Jin, <b>Zhizhi Yu</b>, Dongxiao He, Carl Yang, Philip S. Yu, Jiawei Han. <a href="https://ieeexplore.ieee.org/document/9627584">GCN for HIN via Implicit Utilization of Attention and Meta-Paths</a>.
 		<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.（CCF A类期刊）</i>
                 </p>
               </blockquote>
@@ -154,9 +142,17 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		 <b>Zhizhi Yu</b>, Di Jin, Ziyang Liu, Dongxiao He, Xiao Wang, Hanghang Tong, Jiawei Han. 
-			"Embedding text-rich graph neural networks with sequence and topical semantic structures". 
+		 <b>Zhizhi Yu</b>, Di Jin, Ziyang Liu, Dongxiao He, Xiao Wang, Hanghang Tong, Jiawei Han. <a href="https://link.springer.com/article/10.1007/s10115-022-01768-4">Embedding Text-Rich Graph Neural Networks with Sequence and Topical Semantic Structures</a>.
 			<i>Knowledge and Information Systems (KAIS), 2023.（CCF B类期刊）</i>
+                </p>
+              </blockquote>
+            </div>
+
+<div class="testimonial">
+              <blockquote>
+                <p>
+	           Di Jin, Zhiqiang Wang, Cuiying Huo, <b>Zhizhi Yu*</b>, Dongxiao He, Yuxiao Huang. <a href="https://link.springer.com/chapter/10.1007/978-3-031-40292-0_6">Local-Global Fusion Augmented Graph Contrastive Learning Based on Generative Models</a>.
+			<i>KSEM-2023. (CCF C类会议长文)</i>
                 </p>
               </blockquote>
             </div>
