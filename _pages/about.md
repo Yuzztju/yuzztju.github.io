@@ -61,7 +61,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		Ling Ding, Lei Huang, <b>Zhizhi Yu*</b>, Di Jin, Dongxiao He. [Towards Global-Topology Relation Graph for Inductive Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/33260). 
+		Ling Ding, Lei Huang, <b>Zhizhi Yu*</b>, Di Jin, Dongxiao He. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33260">Towards Global-Topology Relation Graph for Inductive Knowledge Graph Completion</a>. 
 			"Towards Global-Topology Relation Graph for Inductive Knowledge Graph Completion".
 			<i>AAAI-2025.（CCF A类会议长文）</i>
                 </p>
