@@ -69,6 +69,15 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
+	          <b>Zhizhi Yu</b>, Di Jin, Jianguo Wei, Yawen Li, Ziyang Liu, Yue Shang, Jiawei Han, Lingfei Wu. <a href="https://ieeexplore.ieee.org/document/10475504">TeKo: Text-rich graph neural network with external knowledge</a>.
+			<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024. (JCR一区期刊，IF. 14.255)</i>
+                </p>
+              </blockquote>
+            </div>
+	    
+<div class="testimonial">
+              <blockquote>
+                <p>
 	           <b>Zhizhi Yu</b>, Bin Feng, Dongxiao He, Zizhen Wang, Yuxiao Huang, Zhiyong Feng. <a href="https://www.ijcai.org/proceedings/2024/278">LG-GNN: Local-Global Adaptive Graph Neural Network for Modeling both Homophily and Heterophily</a>.
 			<i>IJCAI-2024.（CCF A类会议长文）</i>
                 </p>
@@ -108,16 +117,6 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
                 <p>
 	           Di Jin, Zhiqiang Wang, Cuiying Huo, <b>Zhizhi Yu*</b>, Dongxiao He, Yuxiao Huang. <a href="https://link.springer.com/chapter/10.1007/978-3-031-40292-0_6">Local-Global Fusion Augmented Graph Contrastive Learning Based on Generative Models</a>.
 			<i>KSEM-2023. (CCF C类会议长文)</i>
-                </p>
-              </blockquote>
-            </div>
-
-<div class="testimonial">
-              <blockquote>
-                <p>
-	          <b>Zhizhi Yu</b>, Di Jin, Jianguo Wei, Yawen Li, Ziyang Liu, Yue Shang, Jiawei Han, Lingfei Wu. 
-			"TeKo: Text-rich graph neural network with external knowledge".
-			<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. (JCR一区期刊，IF. 14.255)</i>
                 </p>
               </blockquote>
             </div>
