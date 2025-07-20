@@ -31,16 +31,6 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		Siqi Liu, Dongxiao He, <b>Zhizhi Yu</b>, Di Jin, Zhiyong Feng. 
-			"Beyond Homophily: Neighborhood Distribution-guided Graph Convolutional Networks".
-			<i>Expert Systems With Applications, 2025.（SCI一区期刊）</i>
-                </p>
-              </blockquote>
-            </div>
-
-<div class="testimonial">
-              <blockquote>
-                <p>
 	           <b>Zhizhi Yu</b>, Chundong Liang, Xinglong Chang, Dongxiao He, Di Jin, Jianguo Wei. 
 			<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33431">Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection</a>.
 			<i>AAAI-2025.（CCF A类会议长文）</i>
@@ -61,6 +51,16 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               <blockquote>
                 <p>
 		Ling Ding, Lei Huang, <b>Zhizhi Yu*</b>, Di Jin, Dongxiao He. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33260">Towards Global-Topology Relation Graph for Inductive Knowledge Graph Completion</a>. <i>AAAI-2025.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+
+<div class="testimonial">
+              <blockquote>
+                <p>
+		Siqi Liu, Dongxiao He, <b>Zhizhi Yu*</b>, Di Jin, Zhiyong Feng. 
+			"Beyond Homophily: Neighborhood Distribution-guided Graph Convolutional Networks".
+			<i>Expert Systems With Applications, 2025.（SCI一区期刊）</i>
                 </p>
               </blockquote>
             </div>
