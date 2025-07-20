@@ -47,7 +47,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
                 </p>
               </blockquote>
             </div>
-	    
+
 <div class="testimonial">
               <blockquote>
                 <p>
@@ -61,6 +61,16 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               <blockquote>
                 <p>
 		Ling Ding, Lei Huang, <b>Zhizhi Yu*</b>, Di Jin, Dongxiao He. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33260">Towards Global-Topology Relation Graph for Inductive Knowledge Graph Completion</a>. <i>AAAI-2025.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+
+<div class="testimonial">
+              <blockquote>
+                <p>
+	           Siqi Liu, Dongxiao He, <b>Zhizhi Yu</b>, Di Jin, Zhiyong Feng, Weixiong Zhang. 
+			<a href="https://ojs.aaai.org/index.php/AAAI/article/view/34087">Integrating Co-Training with Edge Discrimination to Enhance Graph Neural Networks Under Heterophily</a>.
+			<i>AAAI-2025.（CCF A类会议长文）</i>
                 </p>
               </blockquote>
             </div>
