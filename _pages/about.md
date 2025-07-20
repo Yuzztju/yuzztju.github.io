@@ -208,7 +208,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		Di Jin, <b>Zhizhi Yu</b>, Cuiying Huo, Rui Wang, Xiao Wang, Dongxiao He, Jiawei Han. <a href="https://proceedings.neurips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html">Universal Graph Convolutional Networks</a>.        
+		Di Jin#, <b>Zhizhi Yu#</b>, Cuiying Huo, Rui Wang, Xiao Wang, Dongxiao He, Jiawei Han. <a href="https://proceedings.neurips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html">Universal Graph Convolutional Networks</a>.        
 		<i>NeurIPS-2021.（CCF A类会议长文）</i>
                 </p>
               </blockquote>
