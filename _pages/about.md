@@ -79,7 +79,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
             </div>
 		  
 <div class="testimonial">
-              <blockquote>
+              <blockquote>Yu Zhou, Di Jin, Jianguo Wei, Dongxiao He, <b>Zhizhi Yu*</b>, Weixiong Zhang.
                 <p><a href="https://www.ijcai.org/proceedings/2024/289">Generalized Taxonomy-Guided Graph Neural Networks</a>.
 			<i>IJCAI-2024.（CCF A类会议长文）</i>
                 </p>
