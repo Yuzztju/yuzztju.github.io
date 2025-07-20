@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University (TJU), China. She received BA, ME degree from Jilin University, and Ph.D degree from Tianjin University. Her supervisor was Prof. Di Jin (金弟). Her research interests include graph machine learning, graph neural networks, complex network analysis, e-commerce search and recommendation system. She has published many papers in highly regarded journals and conferences, such as NeurIPS, WWW, ICDM, IJCAI, AAAI, IEEE TNNLS, IEEE TKDE, etc.
+Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University (TJU), China. She received BA, ME degree from Jilin University, and Ph.D degree from Tianjin University, under the supervision of Prof. Di Jin (金弟). Her postdoctoral advisor was Prof. Jianguo Wei (魏建国). Her research interests include graph machine learning, graph neural networks, complex network analysis, e-commerce search and recommendation system. She has published many papers in highly regarded journals and conferences, such as NeurIPS, WWW, ICDM, IJCAI, AAAI, IEEE TNNLS, IEEE TKDE, etc.
 
 # 📝 Publications
 <div class="testimonial">
