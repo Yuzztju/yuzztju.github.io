@@ -37,7 +37,15 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class="testimonial">
+              <blockquote>
+                <p>
+	           Yawen Li, <b>Zhizhi Yu*</b>, Dongxiao He. 
+			"Text-Rich Graph Neural Networks with Subjective-Objective Semantic Modeling".
+			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.（CCF A类期刊）</i>
+                </p>
+              </blockquote>
+</div>
 
 # 🎖 Honors and Awards
 - IEEE International Conference on Data Mining 2021, Best Student Paper Award Runner-Up, 2021
