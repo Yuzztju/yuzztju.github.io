@@ -19,25 +19,34 @@ redirect_from:
 
 Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University (TJU), China. She received BA, ME degree from Jilin University, and Ph.D degree from Tianjin University. Her supervisor was Prof. Di Jin (金弟). Her research interests include graph machine learning, graph neural networks, complex network analysis, e-commerce search and recommendation system. She has published many papers in highly regarded journals and conferences, such as NeurIPS, WWW, ICDM, IJCAI, AAAI, IEEE TNNLS, IEEE TKDE, etc.
 
-# 🔥 News
+<-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 <div class="testimonial">
+              <blockquote>
+                <p>
+	           <b>Zhizhi Yu</b>, Bin Feng, Dongxiao He, Zizhen Wang, Yuxiao Huang, Zhiyong Feng. 
+			"LG-GNN: Local-Global Adaptive Graph Neural Network for Modeling both Homophily and Heterophily".
+			<i>IJCAI-2024.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+		  
+	<div class="testimonial">
+              <blockquote>
+                <p>
+	           Yu Zhou, Di Jin, Jianguo Wei, Dongxiao He, <b>Zhizhi Yu*</b>, Weixiong Zhang. 
+			"Generalized Taxonomy-Guided Graph Neural Networks".
+			<i>IJCAI-2024.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+
+		  
+	<div class="testimonial">
               <blockquote>
                 <p>
 	           Yawen Li, <b>Zhizhi Yu*</b>, Dongxiao He. 
@@ -45,7 +54,145 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.（CCF A类期刊）</i>
                 </p>
               </blockquote>
-</div>
+            </div>
+
+	<div class="testimonial">
+              <blockquote>
+                <p>
+	           Dongxiao He, Shuwei Liu, Meng Ge, <b>Zhizhi Yu*</b>, Guangquan Xu, Zhiyong Feng. 
+			"Improving Distinguishability of Class for Graph Neural Networks".
+			<i>AAAI-2024. (CCF A类会议长文)</i>
+                </p>
+              </blockquote>
+            </div>
+		  
+<div class="testimonial">
+              <blockquote>
+                <p>
+	           Di Jin, Zhiqiang Wang, Cuiying Huo, <b>Zhizhi Yu*</b>, Dongxiao He, Yuxiao Huang. 
+			"Local-Global Fusion Augmented Graph Contrastive Learning Based on Generative Models".
+			<i>KSEM-2023. (CCF C类会议长文)</i>
+                </p>
+              </blockquote>
+            </div>
+
+            <div class="testimonial">
+              <blockquote>
+                <p>
+	          <b>Zhizhi Yu</b>, Di Jin, Jianguo Wei, Yawen Li, Ziyang Liu, Yue Shang, Jiawei Han, Lingfei Wu. 
+			"TeKo: Text-rich graph neural network with external knowledge".
+			<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. (JCR 一区期刊，IF. 14.255)</i>
+                </p>
+              </blockquote>
+            </div>
+
+            <div class="testimonial">
+              <blockquote>
+                <p>
+		  <b>Zhizhi Yu</b>, Di Jin, Cuiying Huo, Zhiqiang Wang, Xiulong Liu, Heng Qi, Jia Wu, Lingfei Wu.
+"KGTrust: Evaluating trustworthiness of SIoT via knowledge enhanced graph neural networks". 
+			<i>WWW-2023. (CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+
+	<div class="testimonial">
+              <blockquote>
+                <p>
+		  Di Jin, <b>Zhizhi Yu</b>, Pengfei Jiao, Shirui Pan, Dongxiao He, Jia Wu, Philip S. Yu, Weixiong Zhang.
+                  "A survey of community detection approaches: From statistical modeling to deep learning". 
+			<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.（CCF A类期刊）</i>	
+                </p>
+              </blockquote>
+            </div>
+
+            <div class="testimonial">
+              <blockquote>
+                <p>
+		Di Jin, <b>Zhizhi Yu</b>, Dongxiao He, Carl Yang, Philip S. Yu, Jiawei Han. 
+		"GCN for HIN via implicit utilization of attention and meta-paths". 
+		<i>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.（CCF A类期刊）</i>
+                </p>
+              </blockquote>
+            </div>
+
+	<div class="testimonial">
+              <blockquote>
+                <p>
+		 <b>Zhizhi Yu</b>, Di Jin, Ziyang Liu, Dongxiao He, Xiao Wang, Hanghang Tong, Jiawei Han. 
+			"Embedding text-rich graph neural networks with sequence and topical semantic structures". 
+			<i>Knowledge and Information Systems (KAIS), 2023.（CCF B类期刊）</i>
+                </p>
+              </blockquote>
+            </div>
+
+		   <div class="testimonial">
+              <blockquote>
+                <p>
+			Di Jin, Yingli Gong, Zhiqiang Wang, <b>Zhizhi Yu</b>, Dongxiao He, Yuxiao Huang, Wenjun Wang. 
+			"Graph neural network for higher-order dependency networks". 
+			<i>WWW-2022.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+
+	 <div class="testimonial">
+              <blockquote>
+                <p>
+		Dongxiao He, Yanli Wu, Youyou Wang, <b>Zhizhi Yu</b>, Zhiyong Feng, Xiaobao Wang, Yuxiao Huang.
+"Identification of communities with multi-semantics via bayesian generative model".
+			<i>IEEE Transactions on Big Data, 2022.（SCI 二区期刊，IF. 4.271）</i>
+                </p>
+              </blockquote>
+            </div>
+		  
+	 <div class="testimonial">
+              <blockquote>
+                <p>
+		  <b>Zhizhi Yu</b>, Di Jin, Ziyang Liu, Dongxiao He, Xiao Wang, Hanghang Tong, Jiawei Han. 
+			"AS-GCN: Adaptive semantic architecture of graph convolutional networks for text-rich networks".           
+                  <i>ICDM-2021. (CCF B类会议长文，<span style="color: red"
+                  >最佳学生论文奖Runner-Up)</span></i>
+                </p>
+              </blockquote>
+            </div>
+		  
+            <div class="testimonial">
+              <blockquote>
+                <p>
+		Di Jin, <b>Zhizhi Yu</b>, Cuiying Huo, Rui Wang, Xiao Wang, Dongxiao He, Jiawei Han. 
+		"Universal graph convolutional networks". 
+		<i>NeurIPS-2021.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+
+	 <div class="testimonial">
+              <blockquote>
+                <p>
+			Di Jin, Xiangchen Song, <b>Zhizhi Yu</b>, Ziyang Liu, Heling Zhang, Zhaomeng Cheng, Jiawei Han. 
+			"BiTe-GCN: A new GCN architecture via bidirectional convolution of topology and features on text-rich networks". 
+			<i>WSDM-2021.（CCF B类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+
+
+<!--             <div class="testimonial">
+              <blockquote>
+                <p>
+                  Jiaxu He, Cheng Gong, Longbiao Wang, Di Jin,
+                  <b>Xiaobao Wang</b>, Junhai Xu, Jianwu Dang. "Improve
+                  emotional speech synthesis quality by learning explicit and
+                  implicit representations with semi-supervised training".
+                  <i>INTERSPEECH, 2022. (CCF-C类会议长文)</i>
+                </p>
+                <small>
+                  <a target="_blank" href="./paper/interspeech2022.pdf">PDF</a>
+                  &nbsp;&nbsp;
+                </small>
+              </blockquote>
+            </div> -->
 
 # 🎖 Honors and Awards
 - IEEE International Conference on Data Mining 2021, Best Student Paper Award Runner-Up, 2021
