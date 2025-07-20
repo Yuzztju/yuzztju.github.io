@@ -69,7 +69,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-	          <b>Zhizhi Yu</b>, Di Jin, Jianguo Wei, Yawen Li, Ziyang Liu, Yue Shang, Jiawei Han, Lingfei Wu. <a href="https://ieeexplore.ieee.org/document/10475504">TeKo: Text-rich graph neural network with external knowledge</a>.
+	          <b>Zhizhi Yu</b>, Di Jin, Jianguo Wei, Yawen Li, Ziyang Liu, Yue Shang, Jiawei Han, Lingfei Wu. <a href="https://ieeexplore.ieee.org/document/10475504">TeKo: Text-Rich Graph Neural Network with External Knowledge</a>.
 			<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024. (JCR一区期刊，IF. 14.255)</i>
                 </p>
               </blockquote>
@@ -198,8 +198,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-			Di Jin, Xiangchen Song, <b>Zhizhi Yu</b>, Ziyang Liu, Heling Zhang, Zhaomeng Cheng, Jiawei Han. 
-			"BiTe-GCN: A new GCN architecture via bidirectional convolution of topology and features on text-rich networks". 
+			Di Jin, Xiangchen Song, <b>Zhizhi Yu</b>, Ziyang Liu, Heling Zhang, Zhaomeng Cheng, Jiawei Han. <a href="https://dl.acm.org/doi/10.1145/3437963.3441774">BiTe-GCN: A New GCN Architecture via Bidirectional Convolution of Topology and Features on Text-Rich Networks</a>.      
 			<i>WSDM-2021.（CCF B类会议长文）</i>
                 </p>
               </blockquote>
