@@ -33,7 +33,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-	           <b>Zhizhi Yu</b>, Chundong Liang, Xinglong Chang, Dongxiao He, Di Jin, Jianguo Wei:. 
+	           <b>Zhizhi Yu</b>, Chundong Liang, Xinglong Chang, Dongxiao He, Di Jin, Jianguo Wei. 
 			"Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection".
 			<i>AAAI-2025.（CCF A类会议长文）</i>
                 </p>
