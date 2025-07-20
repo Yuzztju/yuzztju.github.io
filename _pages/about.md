@@ -45,12 +45,13 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
                 </p>
               </blockquote>
             </div>
-	    
+
 <div class="testimonial">
               <blockquote>
                 <p>
-	           Songyuan Lei, Xinglong Chang, <b>Zhizhi Yu*</b>, Dongxiao He, Cuiying Huo, Jianrong Wang, Di Jin*. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33309">Feature-Structure Adaptive Completion Graph Neural Network for Cold-start Recommendation</a>.
-			<i>AAAI-2025.（CCF A类会议长文）</i>
+		Siqi Liu, Dongxiao He, <b>Zhizhi Yu*</b>, Di Jin, Zhiyong Feng. 
+			"Beyond Homophily: Neighborhood Distribution-guided Graph Convolutional Networks".
+			<i>Expert Systems With Applications, 2025.（SCI一区期刊）</i>
                 </p>
               </blockquote>
             </div>
@@ -58,9 +59,8 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
-		Siqi Liu, Dongxiao He, <b>Zhizhi Yu*</b>, Di Jin, Zhiyong Feng. 
-			"Beyond Homophily: Neighborhood Distribution-guided Graph Convolutional Networks".
-			<i>Expert Systems With Applications, 2025.（SCI一区期刊）</i>
+	           Songyuan Lei, Xinglong Chang, <b>Zhizhi Yu*</b>, Dongxiao He, Cuiying Huo, Jianrong Wang, Di Jin*. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33309">Feature-Structure Adaptive Completion Graph Neural Network for Cold-start Recommendation</a>.
+			<i>AAAI-2025.（CCF A类会议长文）</i>
                 </p>
               </blockquote>
             </div>
