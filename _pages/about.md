@@ -19,9 +19,9 @@ redirect_from:
 
 Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University (TJU), China. She received BA, ME degree from Jilin University, and Ph.D degree from Tianjin University. Her supervisor was Prof. Di Jin (金弟). Her research interests include graph machine learning, graph neural networks, complex network analysis, e-commerce search and recommendation system. She has published many papers in highly regarded journals and conferences, such as NeurIPS, WWW, ICDM, IJCAI, AAAI, IEEE TNNLS, IEEE TKDE, etc.
 
-<-- # 🔥 News
+# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -35,7 +35,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 		  
-	<div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 	           Yu Zhou, Di Jin, Jianguo Wei, Dongxiao He, <b>Zhizhi Yu*</b>, Weixiong Zhang. 
@@ -46,7 +46,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
             </div>
 
 		  
-	<div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 	           Yawen Li, <b>Zhizhi Yu*</b>, Dongxiao He. 
@@ -56,7 +56,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 
-	<div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 	           Dongxiao He, Shuwei Liu, Meng Ge, <b>Zhizhi Yu*</b>, Guangquan Xu, Zhiyong Feng. 
@@ -76,7 +76,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 
-            <div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 	          <b>Zhizhi Yu</b>, Di Jin, Jianguo Wei, Yawen Li, Ziyang Liu, Yue Shang, Jiawei Han, Lingfei Wu. 
@@ -86,7 +86,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 
-            <div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 		  <b>Zhizhi Yu</b>, Di Jin, Cuiying Huo, Zhiqiang Wang, Xiulong Liu, Heng Qi, Jia Wu, Lingfei Wu.
@@ -96,7 +96,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 
-	<div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 		  Di Jin, <b>Zhizhi Yu</b>, Pengfei Jiao, Shirui Pan, Dongxiao He, Jia Wu, Philip S. Yu, Weixiong Zhang.
@@ -106,7 +106,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 
-            <div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 		Di Jin, <b>Zhizhi Yu</b>, Dongxiao He, Carl Yang, Philip S. Yu, Jiawei Han. 
@@ -116,7 +116,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 
-	<div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 		 <b>Zhizhi Yu</b>, Di Jin, Ziyang Liu, Dongxiao He, Xiao Wang, Hanghang Tong, Jiawei Han. 
@@ -126,7 +126,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 
-		   <div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 			Di Jin, Yingli Gong, Zhiqiang Wang, <b>Zhizhi Yu</b>, Dongxiao He, Yuxiao Huang, Wenjun Wang. 
@@ -136,7 +136,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 
-	 <div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 		Dongxiao He, Yanli Wu, Youyou Wang, <b>Zhizhi Yu</b>, Zhiyong Feng, Xiaobao Wang, Yuxiao Huang.
@@ -146,7 +146,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 		  
-	 <div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 		  <b>Zhizhi Yu</b>, Di Jin, Ziyang Liu, Dongxiao He, Xiao Wang, Hanghang Tong, Jiawei Han. 
@@ -157,7 +157,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 		  
-            <div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 		Di Jin, <b>Zhizhi Yu</b>, Cuiying Huo, Rui Wang, Xiao Wang, Dongxiao He, Jiawei Han. 
@@ -167,7 +167,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               </blockquote>
             </div>
 
-	 <div class="testimonial">
+<div class="testimonial">
               <blockquote>
                 <p>
 			Di Jin, Xiangchen Song, <b>Zhizhi Yu</b>, Ziyang Liu, Heling Zhang, Zhaomeng Cheng, Jiawei Han. 
