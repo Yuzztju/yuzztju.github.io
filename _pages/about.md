@@ -23,7 +23,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 
 <font color ="red"> Call for graduate and undergraduate students! I hope you are dedicated, determined and have basic programming and math skills. Please feel free to contact me via email yuzhizhi@tju.edu.cn.</font>
 
-# 📝 Experiences
+# 💻 Experiences
 - 2023.06 - now Assistant Professor, Tianjin University
 
 # 📝 Publications (*Corresponding author)
