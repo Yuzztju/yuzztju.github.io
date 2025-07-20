@@ -72,7 +72,7 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
               <blockquote>
                 <p>
 	           <b>Zhizhi Yu</b>, Bin Feng, Dongxiao He, Zizhen Wang, Yuxiao Huang, Zhiyong Feng. 
-			"LG-GNN: Local-Global Adaptive Graph Neural Network for Modeling both Homophily and Heterophily".
+			<a href="https://www.ijcai.org/proceedings/2024/278">LG-GNN: Local-Global Adaptive Graph Neural Network for Modeling both Homophily and Heterophily</a>.
 			<i>IJCAI-2024.（CCF A类会议长文）</i>
                 </p>
               </blockquote>
