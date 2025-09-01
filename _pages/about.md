@@ -24,7 +24,8 @@ Zhizhi Yu (于智郅) is currently an assistant professor in Tianjin University 
 <font color ="red"> 招收2026级博士、硕士研究生，欢迎具有较强自驱力和浓厚科研兴趣的学生投递简历！邮箱：yuzhizhi@tju.edu.cn </font>
 
 # 💻 Experiences
-- 2023.06 - now, Assistant Professor, Tianjin University
+- 2025.09 - now, Associate Professor, Tianjin University
+- 2023.06 - 2025.08, Assistant Professor, Tianjin University
 
 # 📝 Publications (*Corresponding author)
 # 2025
