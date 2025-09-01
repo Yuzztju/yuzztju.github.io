@@ -244,7 +244,7 @@ Zhizhi Yu (于智郅) is currently an associate professor in Tianjin University 
 # 🎖 Honors and Awards
 - The Postdoctoral Fellowship Program of CPSF (C), 2024
 - IEEE International Conference on Data Mining 2021, Best Student Paper Award Runner-Up, 2021
-- Excellent PhD graduate of Tianjin University, 2023
+- Excellent PhD Graduate of Tianjin University, 2023
 - Excellent PhD Thesis of Tianjin University, 2023
 
 # 📖 Educations
