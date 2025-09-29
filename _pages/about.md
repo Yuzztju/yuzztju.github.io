@@ -38,6 +38,16 @@ Zhizhi Yu (于智郅) is currently an associate professor in Tianjin University 
                 </p>
               </blockquote>
             </div>
+
+<div class="testimonial">
+              <blockquote>
+                <p>
+					Xinyao Wang, <b>Zhizhi Yu*</b>, Dongxiao He, Liang Yang, Jianguo Wei, Di Jin*.
+			<a href="https://www.ijcai.org/proceedings/2025/380">Attribute Association Driven Multi-Task Learning for Session-based Recommendation</a>.
+			<i>IJCAI-2025.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
 			
 <div class="testimonial">
               <blockquote>
