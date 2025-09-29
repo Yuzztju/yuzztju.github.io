@@ -32,6 +32,16 @@ Zhizhi Yu (于智郅) is currently an associate professor in Tianjin University 
 <div class="testimonial">
               <blockquote>
                 <p>
+					Ronghui Guo, Xiaowang Zhang, <b>Zhizhi Yu*</b>, Minghui Zou, Sai Zhang, Zhiyong Feng.
+			<a href="https://www.ijcai.org/proceedings/2025/317">NAAST-GNN: Neighborhood Adaptive Aggregation and Spectral Tuning for Graph Anomaly Detection</a>.
+			<i>IJCAI-2025.（CCF A类会议长文）</i>
+                </p>
+              </blockquote>
+            </div>
+			
+<div class="testimonial">
+              <blockquote>
+                <p>
 	           <b>Zhizhi Yu</b>, Chundong Liang, Xinglong Chang, Dongxiao He, Di Jin, Jianguo Wei. 
 			<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33431">Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection</a>.
 			<i>AAAI-2025.（CCF A类会议长文）</i>
